@@ -42,7 +42,7 @@ dependencies:
 
     - _tflow_select                          
     - absl-py                                
-    - appnope                                
+    # - appnope                                
     - asciitree                              
     - asn1crypto                             
     - astor                     
@@ -62,7 +62,6 @@ dependencies:
     - ca-certificates            
     - cachetools             
     - cartopy                   
-
     - cffi                      
     - cftime                    
     - chardet                     
@@ -128,8 +127,8 @@ dependencies:
     - libblas
     - libcblas                
     - libcurl                    
-    - libcxx                     
-    - libcxxabi   
+    # - libcxx                     
+    # - libcxxabi   
     - libedit                    
     - libffi                     
     - libgfortran               
